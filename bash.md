@@ -8,3 +8,4 @@
 ### Execute detached
 
     <command> < /dev/null &> /dev/null &
+    <command> < /dev/null &> ~/<command>.log &
